@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  font-family: "Arial";
+}
+
+h2 {
+  text-align: center;
+  font-family: "Arial";
+}
+
+.geometric img {
+  float: left;
+  width: 300px;
+  height: 300px;
+  margin: 20px;
+}
+
+.abstract img {
+  width: 300px;
+  height: 300px;
+  float: right;
+  margin: 20px;
+}
